@@ -1,0 +1,11 @@
+# Core Python and PIP packages - please choose either Python 2 or Python 3. ----
+
+# Python 2
+# python-pip
+
+# Python 3
+python3-pip
+
+# ------------------------------------------------------------------------------
+
+# Additional system packages below this line. ----------------------------------
